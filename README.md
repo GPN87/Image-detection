@@ -1,5 +1,5 @@
 # Image-detection
-## [!Work in progress]
+## [Work in progress]
 Currently a tensorflow-built convolutional neural network model that can detect whether an image is an Eastern Rosella, or a Crimson Rosella (answering the age old question).
 
 The next step will be building the capability for the model to identify if something is niether a crimson rosella or eatern rosella. I need to mess around with the prediction thresholds to do this.
